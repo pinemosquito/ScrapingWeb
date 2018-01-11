@@ -1,4 +1,4 @@
 # ScrapingWeb
 
-## Python 
+## Python BeautifulSoup package
 
